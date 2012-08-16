@@ -1,0 +1,76 @@
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\bin\Debug\YouBot.dll
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\bin\Debug\YouBot.pdb
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\bin\Debug\YouBot.dll.mdb
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\bin\Debug\YouBot.YouBot.apk
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\bin\Debug\YouBot.YouBot-Signed.apk
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\YouBot.dll
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\YouBot.pdb
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\android\bin\YouBot.YouBot.apk
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\res\layout\main.axml
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\res\values\strings.xml
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\res\drawable\icon.png
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\R.cs.flag
+C:\Users\LBD Space\Documents\Projects\YouBot\YouBot\obj\Debug\uploadflags.txt
+C:\Users\LBD Space\Documents\YouBot\YouBot\bin\Debug\YouBot.dll
+C:\Users\LBD Space\Documents\YouBot\YouBot\bin\Debug\YouBot.pdb
+C:\Users\LBD Space\Documents\YouBot\YouBot\bin\Debug\YouBot.dll.mdb
+C:\Users\LBD Space\Documents\YouBot\YouBot\bin\Debug\YouBot.YouBot.apk
+C:\Users\LBD Space\Documents\YouBot\YouBot\bin\Debug\YouBot.YouBot-Signed.apk
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\YouBot.dll
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\YouBot.pdb
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\android\bin\YouBot.YouBot.apk
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\res\layout\main.axml
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\res\values\strings.xml
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\res\drawable\icon.png
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\res\layout\chat_item_you.axml
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\res\layout\chat_item_him.axml
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\R.cs.flag
+C:\Users\LBD Space\Documents\YouBot\YouBot\obj\Debug\uploadflags.txt
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\YouBot.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\YouBot.pdb
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\YouBot.dll.mdb
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\YouBot.YouBot.apk
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\YouBot.YouBot-Signed.apk
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\System.Transactions.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\System.EnterpriseServices.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\System.Web.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\System.Data.OracleClient.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\Microsoft.VisualBasic.Activities.Compiler.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\YouBot.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\YouBot.pdb
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\android\bin\YouBot.YouBot.apk
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\layout\main.axml
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\values\strings.xml
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\drawable\icon.png
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\layout\chat_item_you.axml
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\layout\chat_item_him.axml
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\res\layout\learningpage.axml
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\R.cs.flag
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\obj\Debug\uploadflags.txt
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\Common.Logging.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\Spring.Rest.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\Spring.Social.Core.dll
+C:\Users\LBD Space\Dropbox\YouBot\YouBot\bin\Debug\Spring.Social.Twitter.dll
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\bin\Debug\YouBot.dll
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\bin\Debug\YouBot.pdb
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\bin\Debug\YouBot.dll.mdb
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\bin\Debug\YouBot.YouBot.apk
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\bin\Debug\YouBot.YouBot-Signed.apk
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\YouBot.dll
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\YouBot.pdb
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\android\bin\YouBot.YouBot.apk
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\layout\main.axml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\values\strings.xml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\drawable\icon.png
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\layout\chat_item_you.axml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\layout\chat_item_him.axml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\layout\learningpage.axml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\layout\twitterpopup.axml
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\res\drawable\clouds.jpg
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\R.cs.flag
+C:\Users\LeonsBuddyDave\Dropbox\YouBot\YouBot\obj\Debug\uploadflags.txt

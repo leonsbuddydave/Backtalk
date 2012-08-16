@@ -1,0 +1,6 @@
+YouBot.Chat;youbot.Chat
+YouBot.ChatAdapter;youbot.ChatAdapter
+YouBot.LearningPage;youbot.LearningPage
+YouBot.GmailReader;youbot.GmailReader
+YouBot.SmsReader;youbot.SmsReader
+YouBot.TwitterReader;youbot.TwitterReader

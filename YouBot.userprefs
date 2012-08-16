@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YouBot\Readers\TwitterReader.cs">
+    <Files>
+      <File FileName="YouBot\Chat.cs" Line="37" Column="4" />
+      <File FileName="YouBot\MarkovDBHandler.cs" Line="99" Column="49" />
+      <File FileName="YouBot\MarkovFactory.cs" Line="110" Column="1" />
+      <File FileName="YouBot\Readers\TwitterReader.cs" Line="70" Column="4" />
+      <File FileName="YouBot\LearningPage.cs" Line="136" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.YouBot MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
